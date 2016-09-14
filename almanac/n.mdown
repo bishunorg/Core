@@ -1,0 +1,188 @@
+###Na
+
+| Items | Pronunciation | Strokes | Unicode code | Status |
+| :---------------- | :---------- | :---------- | :---------- | :---------- |
+| 拿 | ná | 10 |  |  |
+| 哪 | nǎ na něi né | 9 |  |  |
+| 那 | nà | 6 |  |  |
+| 纳 | nà | 7 |  |  |
+| 娜 | nà | 9 |  |  |
+| 钠 | nà | 9 |  |  |
+| 捺 | nà | 11 |  |  |
+| 呐 | nà  | 7 |  |  |
+
+###Nai
+
+| Items | Pronunciation | Strokes | Unicode code | Status |
+| :---------------- | :---------- | :---------- | :---------- | :---------- |
+| 乃 | nǎi | 2 |  |  |
+| 奶 | nǎi | 5 |  |  |
+| 奈 | nài | 8 |  |  |
+| 耐 | nài | 9 |  |  |
+
+###Nan
+
+| Items | Pronunciation | Strokes | Unicode code | Status |
+| :---------------- | :---------- | :---------- | :---------- | :---------- |
+| 男 | nán | 7 |  |  |
+| 南 | nán | 9 |  |  |
+| 难 | nán | 10 |  |  |
+
+###Nang
+
+| Items | Pronunciation | Strokes | Unicode code | Status |
+| :---------------- | :---------- | :---------- | :---------- | :---------- |
+| 囊 | náng | 22 |  |  |
+
+###Nao
+
+| Items | Pronunciation | Strokes | Unicode code | Status |
+| :---------------- | :---------- | :---------- | :---------- | :---------- |
+| 挠 | náo | 9 |  |  |
+| 恼 | nǎo | 9 |  |  |
+| 脑 | nǎo | 10 |  |  |
+| 瑙 | nǎo | 13 |  |  |
+| 闹 | nào | 8 |  |  |
+
+###Ne
+
+| Items | Pronunciation | Strokes | Unicode code | Status |
+| :---------------- | :---------- | :---------- | :---------- | :---------- |
+| 呢 | ne ní | 8 |  |  |
+
+###Nei
+
+| Items | Pronunciation | Strokes | Unicode code | Status |
+| :---------------- | :---------- | :---------- | :---------- | :---------- |
+| 馁 | něi | 10 |  |  |
+| 内 | nèi | 4 |  |  |
+
+###Nen
+
+| Items | Pronunciation | Strokes | Unicode code | Status |
+| :---------------- | :---------- | :---------- | :---------- | :---------- |
+| 嫩 | nèn | 14 |  |  |
+
+###Neng
+
+| Items | Pronunciation | Strokes | Unicode code | Status |
+| :---------------- | :---------- | :---------- | :---------- | :---------- |
+| 能 | néng | 10 |  |  |
+
+###Ni
+
+| Items | Pronunciation | Strokes | Unicode code | Status |
+| :---------------- | :---------- | :---------- | :---------- | :---------- |
+| 妮 | nī | 8 |  |  |
+| 尼 | ní | 5 |  |  |
+| 泥 | ní | 8 |  |  |
+| 你 | nǐ | 7 |  |  |
+| 拟 | nǐ | 7 |  |  |
+| 逆 | nì | 9 |  |  |
+| 匿 | nì | 10 |  |  |
+| 溺 | nì | 13 |  |  |
+| 腻 | nì | 13 |  |  |
+
+###Nian
+
+| Items | Pronunciation | Strokes | Unicode code | Status |
+| :---------------- | :---------- | :---------- | :---------- | :---------- |
+| 年 | nián | 6 |  |  |
+| 捻 | niǎn | 11 |  |  |
+| 辗 | niǎn | 14 |  |  |
+| 撵 | niǎn | 15 |  |  |
+| 碾 | niǎn | 15 |  |  |
+| 念 | niàn | 8 |  |  |
+
+###Niang
+
+| Items | Pronunciation | Strokes | Unicode code | Status |
+| :---------------- | :---------- | :---------- | :---------- | :---------- |
+| 酿 | niàng | 14 |  |  |
+| 娘 | niáng | 10 |  |  |
+
+###Niao
+
+| Items | Pronunciation | Strokes | Unicode code | Status |
+| :---------------- | :---------- | :---------- | :---------- | :---------- |
+| 鸟 | niǎo | 5 |  |  |
+| 尿 | niào | 7 |  |  |
+
+###Nie
+
+| Items | Pronunciation | Strokes | Unicode code | Status |
+| :---------------- | :---------- | :---------- | :---------- | :---------- |
+| 捏 | niē | 10 |  |  |
+| 聂 | niè | 10 |  |  |
+| 孽 | niè | 19 |  |  |
+
+###Nin
+
+| Items | Pronunciation | Strokes | Unicode code | Status |
+| :---------------- | :---------- | :---------- | :---------- | :---------- |
+| 您 | nín | 11 |  |  |
+
+###Ning
+
+| Items | Pronunciation | Strokes | Unicode code | Status |
+| :---------------- | :---------- | :---------- | :---------- | :---------- |
+| 宁 | níng | 5 |  |  |
+| 拧 | níng | 8 |  |  |
+| 狞 | níng | 8 |  |  |
+| 柠 | níng | 9 |  |  |
+| 凝 | níng | 16 |  |  |
+| 泞 | nìng | 8 |  |  |
+
+###Niu
+
+| Items | Pronunciation | Strokes | Unicode code | Status |
+| :---------------- | :---------- | :---------- | :---------- | :---------- |
+| 牛 | níu | 4 |  |  |
+| 扭 | nǐu | 7 |  |  |
+| 纽 | nǐu | 7 |  |  |
+| 钮 | nǐu | 9 |  |  |
+
+###Nong
+
+| Items | Pronunciation | Strokes | Unicode code | Status |
+| :---------------- | :---------- | :---------- | :---------- | :---------- |
+| 农 | nóng | 6 |  |  |
+| 浓 | nóng | 9 |  |  |
+| 脓 | nóng | 10 |  |  |
+| 弄 | nòng lòng | 7 |  |  |
+
+###Nu
+
+| Items | Pronunciation | Strokes | Unicode code | Status |
+| :---------------- | :---------- | :---------- | :---------- | :---------- |
+| 奴 | nú | 5 |  |  |
+| 努 | nǔ | 7 |  |  |
+| 怒 | nù | 9 |  |  |
+
+###Nu
+
+| Items | Pronunciation | Strokes | Unicode code | Status |
+| :---------------- | :---------- | :---------- | :---------- | :---------- |
+| 女 | nǚ | 3 |  |  |
+
+###Nuan
+
+| Items | Pronunciation | Strokes | Unicode code | Status |
+| :---------------- | :---------- | :---------- | :---------- | :---------- |
+| 暖 | nuǎn | 13 |  |  |
+
+###Nue
+
+| Items | Pronunciation | Strokes | Unicode code | Status |
+| :---------------- | :---------- | :---------- | :---------- | :---------- |
+| 疟 | nuè | 8 |  |  |
+| 虐 | nuè | 9 |  |  |
+
+###Nuo
+
+| Items | Pronunciation | Strokes | Unicode code | Status |
+| :---------------- | :---------- | :---------- | :---------- | :---------- |
+| 挪 | nuó | 9 |  |  |
+| 诺 | nuò | 10 |  |  |
+| 懦 | nuò | 17 |  |  |
+| 糯 | nuò | 20 |  |  |

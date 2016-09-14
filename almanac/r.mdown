@@ -1,0 +1,125 @@
+###Ra
+
+| Items | Pronunciation | Strokes | Unicode code | Status |
+| :---------------- | :---------- | :---------- | :---------- | :---------- |
+| 然 | rán | 12 |  |  |
+| 燃 | rán | 16 |  |  |
+| 冉 | rǎn | 5 |  |  |
+| 染 | rǎn | 9 |  |  |
+
+###Rang
+
+| Items | Pronunciation | Strokes | Unicode code | Status |
+| :---------------- | :---------- | :---------- | :---------- | :---------- |
+| 瓤 | ráng | 22 |  |  |
+| 嚷 | rǎng | 20 |  |  |
+| 壤 | rǎng | 20 |  |  |
+| 让 | ràng | 5 |  |  |
+
+###Rao
+
+| Items | Pronunciation | Strokes | Unicode code | Status |
+| :---------------- | :---------- | :---------- | :---------- | :---------- |
+| 饶 | ráo | 9 |  |  |
+| 扰 | rǎo | 7 |  |  |
+| 绕 | rào | 9 |  |  |
+
+###Re
+
+| Items | Pronunciation | Strokes | Unicode code | Status |
+| :---------------- | :---------- | :---------- | :---------- | :---------- |
+| 惹 | rě | 12 |  |  |
+| 热 | rè | 10 |  |  |
+
+###Ren
+
+| Items | Pronunciation | Strokes | Unicode code | Status |
+| :---------------- | :---------- | :---------- | :---------- | :---------- |
+| 人 | rén | 2 |  |  |
+| 仁 | rén | 4 |  |  |
+| 壬 | rén | 4 |  |  |
+| 忍 | rěn | 7 |  |  |
+| 刃 | rèn | 3 |  |  |
+| 认 | rèn | 4 |  |  |
+| 任 | rèn | 6 |  |  |
+| 纫 | rèn | 6 |  |  |
+| 韧 | rèn | 7 |  |  |
+
+###Reng
+
+| Items | Pronunciation | Strokes | Unicode code | Status |
+| :---------------- | :---------- | :---------- | :---------- | :---------- |
+| 扔 | rēng | 5 |  |  |
+| 仍 | réng | 4 |  |  |
+
+###Ri
+
+| Items | Pronunciation | Strokes | Unicode code | Status |
+| :---------------- | :---------- | :---------- | :---------- | :---------- |
+| 日 | rì | 4 |  |  |
+
+###Rong
+
+| Items | Pronunciation | Strokes | Unicode code | Status |
+| :---------------- | :---------- | :---------- | :---------- | :---------- |
+| 茸 | róng | 9 |  |  |
+| 戎 | róng | 6 |  |  |
+| 绒 | róng | 9 |  |  |
+| 荣 | róng | 9 |  |  |
+| 容 | róng | 10 |  |  |
+| 溶 | róng | 13 |  |  |
+| 蓉 | róng | 13 |  |  |
+| 榕 | róng | 14 |  |  |
+| 熔 | róng | 14 |  |  |
+| 融 | róng | 16 |  |  |
+| 冗 | rǒng | 4 |  |  |
+
+###Rou
+
+| Items | Pronunciation | Strokes | Unicode code | Status |
+| :---------------- | :---------- | :---------- | :---------- | :---------- |
+| 柔 | róu | 9 |  |  |
+| 揉 | róu | 12 |  |  |
+| 蹂 | róu | 16 |  |  |
+| 肉 | ròu | 6 |  |  |
+
+###Ru
+
+| Items | Pronunciation | Strokes | Unicode code | Status |
+| :---------------- | :---------- | :---------- | :---------- | :---------- |
+| 如 | rú | 6 |  |  |
+| 儒 | rú | 16 |  |  |
+| 蠕 | rú | 20 |  |  |
+| 汝 | rǔ | 6 |  |  |
+| 乳 | rǔ | 8 |  |  |
+| 辱 | rǔ | 10 |  |  |
+| 入 | rù | 2 |  |  |
+| 褥 | rù | 15 |  |  |
+
+###Ruan
+
+| Items | Pronunciation | Strokes | Unicode code | Status |
+| :---------------- | :---------- | :---------- | :---------- | :---------- |
+| 软 | rǔan | 8 |  |  |
+
+###Rui
+
+| Items | Pronunciation | Strokes | Unicode code | Status |
+| :---------------- | :---------- | :---------- | :---------- | :---------- |
+| 蕊 | ruǐ | 15 |  |  |
+| 锐 | ruì | 12 |  |  |
+| 瑞 | ruì | 13 |  |  |
+
+###Run
+
+| Items | Pronunciation | Strokes | Unicode code | Status |
+| :---------------- | :---------- | :---------- | :---------- | :---------- |
+| 闰 | rùn | 7 |  |  |
+| 润 | rùn | 10 |  |  |
+
+###Ruo
+
+| Items | Pronunciation | Strokes | Unicode code | Status |
+| :---------------- | :---------- | :---------- | :---------- | :---------- |
+| 若 | ruò | 8 |  |  |
+| 弱 | ruò | 10 |  |  |

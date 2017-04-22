@@ -1,4 +1,4 @@
-#Steps
+#Steps(with AI and PS)
 1. font-family: 楷体_GB2312，font-size: 260pt;
 2. menu - 扩展，路径查找器 - 分割;
 3. 释放到 layer(顺序);

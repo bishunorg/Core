@@ -6,6 +6,8 @@
 
 ###### A
 
+ā ē hē he ai āi ái ǎi ài ān ǎn àn āng áng āo áo ǎo ào niù
+
 ###### B
 
 ###### C

@@ -18,7 +18,11 @@ cā cāi cái cǎi cài cān cán cǎn càn cāng cáng cāo cáo cǎo cè céng
 
 ###### D
 
+dā dá dǎ dà da dāi dǎi dài dān dǎn dàn dāng dǎng dàng dāo dǎo dào dé de děi dēng děng dèng dī dí dǐ dì diān diǎn diàn diāo diào diē dié dīng dǐng dìng diū dōng dǒng dòng dōu dǒu dòu dū dú dǔ dù duān duǎn duàn duī duì dūn dǔn dùn duō duó duǒ duò
+
 ###### E
+
+é è ēn ér ěr èr
 
 ###### F
 

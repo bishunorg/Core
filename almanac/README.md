@@ -14,6 +14,8 @@ bā bá bǎ bà ba bāi bái bǎi bài bān bǎn bǎn bàn bāng bǎng bàng bā
 
 ###### C
 
+cā cāi cái cǎi cài cān cán cǎn càn cāng cáng cāo cáo cǎo cè céng cèng chā chá chà chāi chái chān chán chǎn chàn chāng cháng chǎng chàng chāo cháo chǎo chē chě chè chén chèn chēng chéng chěng chèng chī chí chǐ chì chōng chóng chǒng chòng chōu chóu chǒu chòu chū chú chǔ chù chuāi chuān chuán chuǎn chuàn chuāng chuáng chuǎng chuàng chuī chuí chūn chún chǔn chuō chuò cí cǐ cì cōng cóng còu cū cù cuàn cuī cuì cūn cún cùn cuō cuò
+
 ###### D
 
 ###### E

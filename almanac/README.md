@@ -26,6 +26,8 @@ dā dá dǎ dà da dāi dǎi dài dān dǎn dàn dāng dǎng dàng dāo dǎo dà
 
 ###### F
 
+fā fá fǎ fà fān fán fǎn fàn fāng fáng fǎng fàng fēi féi fěi fèi fēn fén fěn fèn fēng féng fěng fèng fǒu fū fú fó fǔ fù
+
 ###### G
 
 ###### H

@@ -30,6 +30,8 @@ fā fá fǎ fà fān fán fǎn fàn fāng fáng fǎng fàng fēi féi fěi fèi 
 
 ###### G
 
+gà gāi gǎi gài gān gǎn gàn gāng gǎng gàng gāo gǎo gào gē gé gě gè gěi gēn gēng gěng gèng gōng gǒng gòng gōu gǒu gòu gū gǔ gù guā guǎ guà guāi guǎi guài guān guǎn guàn guāng guǎng guàng guī guǐ guì gǔn gùn guō guó guǒ guò
+
 ###### H
 
 ###### J

@@ -42,6 +42,8 @@ jī jí jǐ jì jiā jiá jiǎ jià jiān jiǎn jiàn xiàn jiāng jiǎng jiàng
 
 ### K
 
+kā kǎ qiǎ kāi kǎi kān kǎn kàn kāng káng kàng kǎo kào kē ké qiào kě kè kěn kēng háng kōng kǒng kòng kōu kǒu kòu kū kǔ kù kuā kuǎ kuà kuài kuān kuǎn kuāng kuáng kuàng kuī kuí kuì
+
 ### L
 
 ### M

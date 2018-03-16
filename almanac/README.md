@@ -1,67 +1,69 @@
-### 关于
+## 关于
 
-对一级汉字按照字母顺序进行梳理，共 3500 字。
+对一级汉字按照字母顺序进行梳理，共 3500 字，目前正在整理中。
 
-### 概览
+## 概览
 
-###### A
+### A
 
 ā ē hē he ai āi ái ǎi ài ān ǎn àn āng áng āo áo ǎo ào niù
 
-###### B
+### B
 
 bā bá bǎ bà ba bāi bái bǎi bài bān bǎn bǎn bàn bāng bǎng bàng bāo báo bǎo bào bēi běi bèi bēn běn bèn bēng bèng bī bí bǐ bì biān biǎn biàn biāo biǎo biē bié biě biè bīn bìn bīng bǐng bìng bō bó bǒ bò bo bǔ bù
 
-###### C
+### C
 
 cā cāi cái cǎi cài cān cán cǎn càn cāng cáng cāo cáo cǎo cè céng cèng chā chá chà chāi chái chān chán chǎn chàn chāng cháng chǎng chàng chāo cháo chǎo chē chě chè chén chèn chēng chéng chěng chèng chī chí chǐ chì chōng chóng chǒng chòng chōu chóu chǒu chòu chū chú chǔ chù chuāi chuān chuán chuǎn chuàn chuāng chuáng chuǎng chuàng chuī chuí chūn chún chǔn chuō chuò cí cǐ cì cōng cóng còu cū cù cuàn cuī cuì cūn cún cùn cuō cuò
 
-###### D
+### D
 
 dā dá dǎ dà da dāi dǎi dài dān dǎn dàn dāng dǎng dàng dāo dǎo dào dé de děi dēng děng dèng dī dí dǐ dì diān diǎn diàn diāo diào diē dié dīng dǐng dìng diū dōng dǒng dòng dōu dǒu dòu dū dú dǔ dù duān duǎn duàn duī duì dūn dǔn dùn duō duó duǒ duò
 
-###### E
+### E
 
 é è ēn ér ěr èr
 
-###### F
+### F
 
 fā fá fǎ fà fān fán fǎn fàn fāng fáng fǎng fàng fēi féi fěi fèi fēn fén fěn fèn fēng féng fěng fèng fǒu fū fú fó fǔ fù
 
-###### G
+### G
 
 gà gāi gǎi gài gān gǎn gàn gāng gǎng gàng gāo gǎo gào gē gé gě gè gěi gēn gēng gěng gèng gōng gǒng gòng gōu gǒu gòu gū gǔ gù guā guǎ guà guāi guǎi guài guān guǎn guàn guāng guǎng guàng guī guǐ guì gǔn gùn guō guó guǒ guò
 
-###### H
+### H
 
 hā há hāi ké hái hǎi hài hān hán hǎn hàn hāng háng háo hǎo hào hē hé hè hēi hén hěn hèn hēng héng hōng hóng hǒng hòng hóu hǒu hòu hū hú hǔ hù huā huá huà huái huài huān huán huǎn huàn huāng huáng huǎng huǎng huàng huī huí huǐ huì hūn hún huō huó huǒ huò
 
-###### J
+### J
 
-###### K
+jī jí jǐ jì jiā jiá jiǎ jià jiān jiǎn jiàn xiàn jiāng jiǎng jiàng jiāo jiǎo jiào jiē jié jiě jiè jīn jīn jǐn jìn jīng jǐng jìng jiǒng jiū jiǔ jiù jū jú jǔ jù juān juàn jué juè jūn jùn
 
-###### L
+### K
 
-###### M
+### L
 
-###### N
+### M
 
-###### O
+### N
 
-###### P
+### O
 
-###### Q
+### P
 
-###### R
+### Q
 
-###### S
+### R
 
-###### T
+### S
 
-###### W
+### T
 
-###### X
+### W
 
-###### Y
+### X
 
-###### Z
+### Y
+
+### Z

@@ -34,6 +34,8 @@ gà gāi gǎi gài gān gǎn gàn gāng gǎng gàng gāo gǎo gào gē gé gě g
 
 ###### H
 
+hā há hāi ké hái hǎi hài hān hán hǎn hàn hāng háng háo hǎo hào hē hé hè hēi hén hěn hèn hēng héng hōng hóng hǒng hòng hóu hǒu hòu hū hú hǔ hù huā huá huà huái huài huān huán huǎn huàn huāng huáng huǎng huǎng huàng huī huí huǐ huì hūn hún huō huó huǒ huò
+
 ###### J
 
 ###### K

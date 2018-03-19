@@ -74,7 +74,11 @@ rán rǎn ráng rǎng ràng ráo rǎo rào rě rè rén rěn rèn rēng réng r�
 
 ### S
 
+sā sǎ sà sāi sài sān sǎn sàn sāng sǎng sàng sāo sǎo sào sè sēn sēng shā shá shǎ shà shāi shài shān shǎn shàn shāng shǎng shàng shang shāo sháo shǎo shào shē shé shě shè shēn shén shěn shèn shēng shéng shěng shèng shī shí shǐ shì shōu shǒ shòu shū shú shǔ shù shuā shuǎ shuāi shuǎi shuài shuān shuàn shuāng shuǎng shuí shuǐ shuì shǔn shùn shuō shuò sī sǐ sì sōng sǒng sòng sōu sòu sū sú sù suān suàn suī suí suǐ suì sūn sǔn suō suǒ
+
 ### T
+
+
 
 ### W
 

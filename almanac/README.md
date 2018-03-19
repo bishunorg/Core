@@ -46,11 +46,19 @@ kā kǎ qiǎ kāi kǎi kān kǎn kàn kāng káng kàng kǎo kào kē ké qiào 
 
 ### L
 
+lā lǎ là la lái lài lán lǎn làn láng láng lǎng làng lāo láo lǎo lào lē lè le léi lěi lèi léng lěng lèng lí lǐ lì liǎ liǎng lián liǎn liàn liáng liǎng liàng liáo liǎo liào lòng
+
 ### M
+
+mā má mǎ mà ma mái mǎi mài mán mǎn màn máng mǎng māo máo mǎo mào me méi měi mèi mén mèn men méng měng mèng mī mí mǐ mì mián miǎn miàn miáo miǎo miào
 
 ### N
 
+ná nǎ nà na nǎi nài nán náng náo nǎo nào né ne něi nèi nèn néng nī ní nǐ nì nián niǎn niàn niáng niàng niǎ nià niē niè nín níng nìng níu nǐu nóng nòng nú nǔ nù nǚ nuǎn nuè nuó nuò
+
 ### O
+
+ó ò ōu ǒu
 
 ### P
 

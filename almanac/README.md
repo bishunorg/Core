@@ -62,9 +62,15 @@ ná nǎ nà na nǎi nài nán náng náo nǎo nào né ne něi nèi nèn néng n
 
 ### P
 
+pā pá pà pāi pái pài pān pán pàn pāng páng pàng pāo páo pǎo pào pēi pèi pēn pén pēng péng pěng pèng pī pí pǐ pì piān piàn piāo piáo piào piě pīn pín pǐn pìn pīng píng pō pó pò pōu pū pú pǔ pù
+
 ### Q
 
+qī qí qǐ qì qiā qià qiān qián qiǎn qiàn qiāng qiáng qiǎng qiāo qiáo qiǎo qiào qiē qié qiě qiè qīn qín qǐn qìn qīng qíng qǐng qìng qióng qiū qiú qū qǔ qǔ qù quān quán quǎn quà quē qué què qún
+
 ### R
+
+rán rǎn ráng rǎng ràng ráo rǎo rào rě rè rén rěn rèn rēng réng rì róng rǒng róu ròu rú rǔ rù rǔan ruǐ ruì rùn ruò
 
 ### S
 

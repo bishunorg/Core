@@ -78,11 +78,15 @@ sā sǎ sà sāi sài sān sǎn sàn sāng sǎng sàng sāo sǎo sào sè sēn s
 
 ### T
 
-
+tā tǎ tà tāi tái tài tān tán tǎn tàn tāng táng tǎng tàng tāo táo tǎo tào tè téng tī tí tǐ tì tiān tián tiǎn tiāo tiáo tiào tiē tiě tīng tíng tǐng tōng tóng tǒng tòng tōu tóu tòu tū tú tǔ tù túan tuī tuí tuǐ tuì tūn tún tuō tuó tuǒ tuò
 
 ### W
 
+wā wá wǎ wà wa wāi wài wān wán wǎn wàn wāng wáng wǎng wàng wēi wéi wěi wèi wēn wén wěn wèn wēng wō wǒ wò wū wú wǔ wù
+
 ### X
+
+
 
 ### Y
 

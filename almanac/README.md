@@ -90,4 +90,8 @@ xī xí xǐ xì xiā xiá xià xiān xián xiǎn xiàn xiāng xiáng xiǎng xià
 
 ### Y
 
+yā yá yǎ yà ya yān yán yǎn yàn yāng yáng yǎng yàng yāo yáo yǎo yào yē yé yě yè yī yí yǐ yì yīn yín yǐn yìn yīng yíng yǐng yìng yō yo yōng yǒng yòng yōu yóu yǒu yòu yū yú yǔ yù yuān yuán yuǎn yuàn yuē yuè yūn yún yǔn yùn
+
 ### Z
+
+zá zǎ zāi zǎi zài zán zàn zāng zāo záo zǎo zào zé zéi zěn zēng zèng zhā zhá zhǎ zhà zhāi zhái zhǎi zhài zhān zhǎn zhàn zhāng zhǎng zhàng zhāo zhǎo zhào zhē zhé zhě zhè zhe zhēn zhěn zhèn zhēng zhěng zhěng zhèng zhī zhí zhǐ zhì zhōng zhǒng zhòng zhōu zhóu zhǒu zhòu zhū zhú zhǔ zhù zhuā zhuài zhuān zhuǎn zhuàn zhuāng zhuàng zhuī zhuì zhūn zhǔn zhuō zhuó zī zǐ zì zōng zǒng zòng zǒu zòu zū zú zǔ zuān zuàn zuǐ zuì zūn zuó zuǒ zuò

@@ -12,7 +12,30 @@
 熬 āo áo
 
 ##### B
-扒 把 蚌 薄 堡 暴 背 奔 臂 辟 扁 便 膀 磅 绷 骠 瘪 屏 剥 泊 伯 簸 膊 卜
+扒 bā pá <br/>
+把 bǎ bà <br/>
+蚌 bàng bèng <br/>
+薄 báo bó bò <br/>
+堡 bǎo bǔ pù <br/>
+暴 bào pù <br/>
+背 bèi bēi <br/>
+奔 bēn bèn <br/>
+臂 bì bei <br/>
+辟 bì pì <br/>
+扁 biǎn piān <br/>
+便 biàn pián <br/>
+膀 bǎng pāng páng <br/>
+磅 bàng páng <br/>
+绷 bēng běng bèng <br/>
+骠 biāo piào <br/>
+瘪 biē biě <br/>
+屏 bīng bǐng píng <br/>
+剥 bō bāo <br/>
+泊 bó pō <br/>
+伯 bó bǎi <br/>
+簸 bǒ bò <br/>
+膊 bó bo <br/>
+卜 bo bǔ
 
 ##### C
 伧 藏 曾 噌 差 禅 颤 孱 裳 场 嘲 车 称 澄 铛 乘 匙 冲 臭 处 畜 创 绰 伺 兹 跐 枞 攒 撮 揣 椎

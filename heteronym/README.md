@@ -38,7 +38,37 @@
 卜 bo bǔ
 
 ##### C
-伧 藏 曾 噌 差 禅 颤 孱 裳 场 嘲 车 称 澄 铛 乘 匙 冲 臭 处 畜 创 绰 伺 兹 跐 枞 攒 撮 揣 椎
+伧 cāng chen <br/>
+藏 cáng zàng <br/>
+曾 céng zēng <br/>
+噌 cēng chēng <br/>
+差 chā chà chāi cī <br/>
+禅 chán shàn <br/>
+颤 chàn zhàn <br/>
+孱 chán càn <br/>
+裳 cháng shang <br/>
+场 cháng chǎng <br/>
+嘲 chá zhāo <br/>
+车 chē jū <br/>
+称 chēng chèn chèng <br/>
+澄 chéng dèng <br/>
+铛 chēng dāng <br/>
+乘 dāng chéng <br/>
+匙 chí shi <br/>
+冲 chōng chòng <br/>
+臭 chòu xiù <br/>
+处 chǔ chù <br/>
+畜 chù xù <br/>
+创 chuàng chuāng <br/>
+绰 chuò chāo <br/>
+伺 cì sì <br/>
+兹 cí zī <br/>
+跐 cī cǐ <br/>
+枞 cōng zōng <br/>
+攒 cuán zǎn <br/>
+撮 cuō zuǒ <br/>
+揣 chuāi chuǎi <br/>
+椎 chuí zhuī
 
 ##### D
 答 大 沓 逮 单 当 倒 叨 提 得 的 钿 钉 都 斗 掇 度 囤 垛

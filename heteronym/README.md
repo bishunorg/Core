@@ -94,7 +94,7 @@
 ##### F
 发 fā fà <br/>
 坊 fāng fáng <br/>
-分 fēnfèn <br/>
+分 fēn fèn <br/>
 缝 féng fèng <br/>
 服 fú fù <br/>
 菲 fēi fěi <br/>

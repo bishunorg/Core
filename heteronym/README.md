@@ -71,10 +71,35 @@
 椎 chuí zhuī
 
 ##### D
-答 大 沓 逮 单 当 倒 叨 提 得 的 钿 钉 都 斗 掇 度 囤 垛
+答 dā dá <br/>
+大 dà dài <br/>
+沓 dá tà <br/>
+逮 dǎi dài <br/>
+单 dān chán shàn <br/>
+当 dāng dàng <br/>
+倒 dǎo dào <br/>
+叨 dāo dáo tāo <br/>
+提 dī tí <br/>
+得 dé de děi <br/>
+的 dí dì de <br/>
+钿 diàn tián <br/>
+钉 dīng dìng <br/>
+都 dōu dū <br/>
+斗 dǒu dòu <br/>
+掇 duō duo <br/>
+度 duó dù <br/>
+囤 dùn tún <br/>
+垛 duǒ duò
 
 ##### F
-发 坊 分 缝 服 菲 否 脯
+发 fā fà <br/>
+坊 fāng fáng <br/>
+分 fēnfèn <br/>
+缝 féng fèng <br/>
+服 fú fù <br/>
+菲 fēi fěi <br/>
+否 fǒu pǐ <br/>
+脯 fǔ pú
 
 ##### G
 轧 杆 扛 膏 咯 搁 葛 革 合 给 更 颈 供 红 枸 估 呱 骨 谷 鹄 括 莞 纶 冠 桧 过

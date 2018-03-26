@@ -199,13 +199,57 @@
 溃 kuì hui
 
 ##### L
-蓝 烙 勒 肋 擂 累 蠡 俩 量 踉 潦 燎 淋 馏 镏 碌 遛 溜 笼 偻 搂 露 捋 绿 络 落
+蓝 lán lan <br/>
+烙 lào luò <br/>
+勒 lè lēi <br/>
+肋 lē lèi <br/>
+擂 léi lèi <br/>
+累 lèi léi lěi <br/>
+蠡 lí lǐ <br/>
+俩 liǎ liǎng <br/>
+量 liáng liàng liang <br/>
+踉 liáng liàng <br/>
+潦 liáo lǎo <br/>
+燎 liáo liǎo <br/>
+淋 lín lìn <br/>
+馏 liú liù <br/>
+镏 liú liù <br/>
+碌 liù lù <br/>
+遛 liú liū <br/>
+溜 liù liù <br/>
+笼 lóng lǒng <br/>
+偻 lóu lǚ <br/>
+搂 lōu lǒu <br/>
+露 lù lòu <br/>
+捋 lǚ luō <br/>
+绿 lǜ lù <br/>
+络 luò lào <br/>
+落 luò lào là
 
 ##### M
-抹 脉 埋 蔓 氓 闷 没 蒙 眯 靡 秘 泌 模 摩 缪
+抹 mā mǒ mò <br/>
+脉 mò mài <br/>
+埋 mái mán <br/>
+蔓 màn wàn <br/>
+氓 máng méng <br/>
+闷 mēn mèn <br/>
+没 méi mò <br/>
+蒙 mēng méng měng <br/>
+眯 mí mī <br/>
+靡 mí mǐ <br/>
+秘 mì bì <br/>
+泌 mì bì <br/>
+模 mó mú <br/>
+摩 mó mā <br/>
+缪 móu miù miào
 
 ##### N
-难 泥 宁 弄 疟 娜
+难 nán nàn <br/>
+泥 ní nì <br/>
+宁 níng nìng <br/>
+弄 nòng lòng <br/>
+疟 nüè yào <br/>
+娜 nuó nà
 
 ##### P
 排 迫 胖 刨 炮 跑 喷 劈 片 缥 撇 仆 朴 瀑 曝

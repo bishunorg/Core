@@ -102,16 +102,101 @@
 脯 fǔ pú
 
 ##### G
-轧 杆 扛 膏 咯 搁 葛 革 合 给 更 颈 供 红 枸 估 呱 骨 谷 鹄 括 莞 纶 冠 桧 过
+轧 gá yà zhá <br/>
+杆 gān gǎn <br/>
+扛 gāng káng <br/>
+膏 gāo gào <br/>
+咯 gē kǎ lo <br/>
+搁 gē gé <br/>
+葛 gégě <br/>
+革 gé jí <br/>
+合 gě hé <br/>
+给 gěi jǐ <br/>
+更 gēng gèng <br/>
+颈 gěng jǐng <br/>
+供 gōng gòng <br/>
+红 gōng hóng <br/>
+枸 gōu gǒu jǔ <br/>
+估 gū gù <br/>
+呱 gū guā guǎ <br/>
+骨 gū gǔ <br/>
+谷 gǔ yù <br/>
+鹄 gǔ hú <br/>
+括 guā kuò <br/>
+莞 guǎn wǎn <br/>
+纶 guān lún <br/>
+冠 guān guàn <br/>
+桧 guì huì <br/>
+过 guō guò guo
 
 ##### H
-虾 哈 咳 汗 巷 吭 号 和 貉 喝 横 虹 哄 划 晃 会 混 豁
+虾 há xiā <br/>
+哈 hǎ hà hā <br/>
+咳 hāi ké <br/>
+汗 hán hàn <br/>
+巷 hàng xiàng <br/>
+吭 háng kēng <br/>
+号 háo hào <br/>
+和 hé hè hú huó huò huo <br/>
+貉 hé háo <br/>
+喝 hē hè <br/>
+横 héng hèng <br/>
+虹 hóng jiàng <br/>
+哄 hōng hǒng hòng <br/>
+划 huá huà <br/>
+晃 huǎng huàng <br/>
+会 huì kuàì <br/>
+混 hún hùn <br/>
+豁 huō huò
 
 ##### J
-奇 缉 几 济 纪 偈 系 稽 亟 诘 茄 夹 假 间 将 嚼 侥 角 脚 剿 教 校 解 结 芥 藉 节 禁 尽 矜 仅 劲 龟 咀 矩 据 菌
+奇 jī qí <br/>
+缉 jī qī <br/>
+几 jī jǐ <br/>
+济 jǐ jì <br/>
+纪 jǐ jì <br/>
+偈 jì jié <br/>
+系 jì xì <br/>
+稽 jī qǐ <br/>
+亟 jí qì <br/>
+诘 jí jié <br/>
+茄 jiā qié <br/>
+夹 jiā jiá <br/>
+假 jiǎ jià <br/>
+间 jiān jiàn <br/>
+将 jiāng jiàng <br/>
+嚼 jiáo jué jiào <br/>
+侥 jiǎo yáo <br/>
+角 jiǎo jué <br/>
+脚 jiǎo jué <br/>
+剿 jiǎo chāo <br/>
+教 jiāo jiào <br/>
+校 jiào xiào <br/>
+解 jiě jiè xiè <br/>
+结 jiē jié <br/>
+芥 jiè gài <br/>
+藉 jiè jí <br/>
+节 jiē jié <br/>
+禁 jīn jìn <br/>
+尽 jǐn jìn <br/>
+矜 jīn qín <br/>
+仅 jǐn jìn <br/>
+劲 jìn jìng <br/>
+龟 jūn guī qiū <br/>
+咀 jǔ zuǐ <br/>
+矩 jǔ ju <br/>
+据 jū jù <br/>
+菌 jūn jùn
 
 ##### K
-卡 看 坷 壳 可 克 空 溃
+卡 kǎ qiǎ <br/>
+看 kān kàn <br/>
+坷 kē kě <br/>
+壳 ké qià <br/>
+可 kě kè <br/>
+克 kè kēi <br/>
+空 kōng kòng <br/>
+溃 kuì hui
 
 ##### L
 蓝 烙 勒 肋 擂 累 蠡 俩 量 踉 潦 燎 淋 馏 镏 碌 遛 溜 笼 偻 搂 露 捋 绿 络 落

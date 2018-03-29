@@ -252,13 +252,44 @@
 娜 nuó nà
 
 ##### P
-排 迫 胖 刨 炮 跑 喷 劈 片 缥 撇 仆 朴 瀑 曝
+排 pái pǎi <br/>
+迫 pǎi pò <br/>
+胖 pán pàng <br/>
+刨 páo bào <br/>
+炮 páo pào bāo <br/>
+跑 páo pǎo <br/>
+喷 pēn pèn <br/>
+劈 pī pǐ <br/>
+片 piàn piān <br/>
+缥 piāo piǎo <br/>
+撇 piē piě <br/>
+仆 pū pú <br/>
+朴 pǔ pō pò piáo <br/>
+瀑 pù bào <br/>
+曝 pù bào
 
 ##### Q
-栖 蹊 稽 荨 欠 抢 强 呛 戗 悄 翘 切 趄 亲 曲 雀 圈 阙
+栖 qī xī <br/>
+蹊 qī xī <br/>
+稽 qí jī <br/>
+荨 qián xún <br/>
+欠 qiàn qian <br/>
+抢 qiāng qiǎng <br/>
+强 qiáng qiǎng jiàng <br/>
+呛 qiāng qiàng <br/>
+戗 qiāng qiàng <br/>
+悄 qiāo qiǎo <br/>
+翘 qiào qiáo <br/>
+切 qiē qiè <br/>
+趄 qiè qie jū <br/>
+亲 qīn qìng <br/>
+曲 qū qǔ <br/>
+雀 qiāo qiǎo què<br/>
+圈 quān juān juàn<br/>
+阙 quē què
 
 ##### R
-任
+任 rén rèn
 
 ##### S
 散 丧 色 塞 煞 厦 杉 苫 汤 折 舍 拾 什 葚 识 似 属 熟 刷 说 数 忪 宿 遂

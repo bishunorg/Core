@@ -353,7 +353,23 @@
 旋 xuán xuàn
 
 ##### Y
-哑 殷 咽 约 钥 掖 耶 叶 艾 迤 应 佣 熨 与 吁 予 晕
+哑 yā yǎ <br/>
+殷 yān yīn yǐn <br/>
+咽 yān yàn yè <br/>
+约 yāo yuē <br/>
+钥 yào yuè <br/>
+掖 yē yè <br/>
+耶 yē yé <br/>
+叶 yè xié <br/>
+艾 yì ài <br/>
+迤 yí yǐ <br/>
+应 yīng yìng <br/>
+佣 yōng yòng <br/>
+熨 yù yùn <br/>
+与 yǔ yù <br/>
+吁 yù xū <br/>
+予 yú yǔ <br/>
+晕 yūn yùn
 
 ##### Z
 咋 载 脏 择 扎 轧 炸 粘 涨 占 爪 着 蜇 症 正 殖 只 中 种 轴 著 拽 转 幢 缴 综 仔 钻 柞 作

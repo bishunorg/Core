@@ -292,16 +292,65 @@
 任 rén rèn
 
 ##### S
-散 丧 色 塞 煞 厦 杉 苫 汤 折 舍 拾 什 葚 识 似 属 熟 刷 说 数 忪 宿 遂
+散 sǎn sàn <br/>
+丧 sāng sàng sang <br/>
+色 sè shǎi <br/>
+塞 sè sāi sài <br/>
+煞 shā shà <br/>
+厦 shà xià <br/>
+杉 shān shā <br/>
+苫 shàn shān <br/>
+汤 shāng tāng <br/>
+折 shé zhē zhé <br/>
+舍 shě shè <br/>
+拾 shè shí <br/>
+什 shén shí <br/>
+葚 shèn rèn <br/>
+识 shí zhì <br/>
+似 shì sì <br/>
+属 shǔ zhǔ <br/>
+熟 shóu shú <br/>
+刷 shuā shuà <br/>
+说 shuì shuō <br/>
+数 shuò shǔ shù <br/>
+忪 sōng zhóng <br/>
+宿 sù xiǔ xiù <br/>
+遂 suí suì
 
 ##### T
-踏 沓 趟 苔 调 帖 通 吐 褪 拓
+踏 tā tà <br/>
+沓 tà dá <br/>
+趟 tāng tàng <br/>
+苔 tái tāi <br/>
+调 tiáo diào <br/>
+帖 tiē tiě tiè <br/>
+通 tōng tòng <br/>
+吐 tǔ tù <br/>
+褪 tuì tùn <br/>
+拓 tuò tà
 
 ##### W
-瓦 圩 委 尾 尉 遗 纹 乌
+瓦 wǎ wà <br/>
+圩 wéi xū <br/>
+委 wēi wěi <br/>
+尾 wěi yǐ <br/>
+尉 wèi yù <br/>
+遗 wèi yí <br/>
+纹 wén wèn <br/>
+乌 wū wù
 
 ##### X
-吓 鲜 纤 相 行 省 削 血 熏 兴 旋
+吓 xiā hè <br/>
+鲜 xiān xiǎn <br/>
+纤 xiān qiàn <br/>
+相 xiāng xiàng <br/>
+行 xíng háng hàng héng <br/>
+省 xǐng shěng <br/>
+削 xuē xiāo <br/>
+血 xuè xiě <br/>
+熏 xūn xùn <br/>
+兴 xīng xìng <br/>
+旋 xuán xuàn
 
 ##### Y
 哑 殷 咽 约 钥 掖 耶 叶 艾 迤 应 佣 熨 与 吁 予 晕

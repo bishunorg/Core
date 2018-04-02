@@ -372,4 +372,33 @@
 晕 yūn yùn
 
 ##### Z
-咋 载 脏 择 扎 轧 炸 粘 涨 占 爪 着 蜇 症 正 殖 只 中 种 轴 著 拽 转 幢 缴 综 仔 钻 柞 作
+咋 zǎ zé zhā <br/>
+载 zǎi zài <br/>
+脏 zāng zàng <br/>
+择 zé zhái <br/>
+扎 zhá zhā zā <br/>
+轧 zhá yà <br/>
+炸 zhá zhà <br/>
+粘 zhān nián <br/>
+涨 zhǎng zhàng <br/>
+占 zhān zhàn <br/>
+爪 zhǎo zhuǎ <br/>
+着 zháo zhuó zhāo zhe <br/>
+蜇 zhē zhé <br/>
+症 zhēng zhèng <br/>
+正 zhēng zhèng <br/>
+殖 zhí shi <br/>
+只 zhī zhǐ <br/>
+中 zhōng zhòng <br/>
+种 zhǒng zhòng <br/>
+轴 zhóu zhòu <br/>
+著 zhù zhe zhúo <br/>
+拽 zhuāi zhuài <br/>
+转 zhuǎn zhuàn <br/>
+幢 zhuàng chuáng <br/>
+缴 zhuó jiǎo <br/>
+综 zèng zōng <br/>
+仔 zī zǐ zǎi <br/>
+钻 zuān zuàn <br/>
+柞 zuò zhà <br/>
+作 zuō zuò

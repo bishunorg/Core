@@ -1,4 +1,4 @@
-#Steps
+### Steps
 1. Open Adobe Illustrator, choose `File` > `New ...`, type a character
 2. Set the font family as _KaiTi_GB2312_, font size as 120px
 3. Right click to choose `Create Outlines`
@@ -7,9 +7,7 @@
 6. choose `File` > `Save as ...` save as a svg file
 7. copy svg source code and format it
 
-That's all.
-
-this is a source code demo:
+That's all. Here is a source code demo:
 
 ````` svg
 <svg version="1.1" x="0" y="0" viewBox="0 0 360 360">

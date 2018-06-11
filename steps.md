@@ -1,6 +1,6 @@
 ### Steps
 1. Open Adobe Illustrator, choose `File` > `New ...`, type a character
-2. Set the font family as _KaiTi_GB2312_, font size as 120px
+2. Set the font family as _KaiTi_GB2312_, font size as _120px_
 3. Right click to choose `Create Outlines`
 4. Press <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>G</kbd> to cancel group layers
 5. Right click to choose `Release Compound Shape`

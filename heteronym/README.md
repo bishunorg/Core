@@ -2,9 +2,11 @@
 
 收录部分多音字，目前共收录 357 个多音字。
 
-### 多音字列表
+<details>
+  <summary><h3>多音字列表</h3></summary>
 
-##### A
+#### A
+
 阿 ā ē <br/>
 腌 ā yān <br/>
 挨 āi ái <br/>
@@ -12,6 +14,7 @@
 熬 āo áo
 
 ##### B
+
 扒 bā pá <br/>
 把 bǎ bà <br/>
 蚌 bàng bèng <br/>
@@ -402,3 +405,9 @@
 钻 zuān zuàn <br/>
 柞 zuò zhà <br/>
 作 zuō zuò
+</details>
+
+### 参考
+
+- [多音字 - 维基百科](https://zh.wikipedia.org/zh-hans/%E5%A4%9A%E9%9F%B3%E5%AD%97)
+- [普通话异读词审音表](https://www.moe.gov.cn/jyb_sjzl/ziliao/A19/201001/t20100115_75598.html)
